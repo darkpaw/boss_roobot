@@ -1,0 +1,17 @@
+
+* { margin:0; padding:0; }
+
+body {
+    background-color: #34343c;
+    color: #71A6EA;
+    font-family: sans-serif;
+}
+
+/*html, body { width:100%; height:100%; }*/
+
+canvas { display:block; }
+
+@font-face {
+    font-family: 'LiquidCrystal';
+    src: url('LiquidCrystal-Normal.otf');
+}
